@@ -1,0 +1,1 @@
+export { PriceCalculatorPage } from './price-calculator.page';
